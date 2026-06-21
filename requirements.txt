@@ -1,9 +1,8 @@
 # install using       ---->      pip install -r requirements.txt
 
-
-pandas
 numpy
+pandas
 matplotlib
 seaborn
 scikit-learn
-jupyterlab
+jupyter
